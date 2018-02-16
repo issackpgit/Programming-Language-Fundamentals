@@ -1,7 +1,6 @@
 import java.io.DataInputStream;
 
 public class Buffer {
-	
 	private String line = "";
 		private int position = 0;
 		private DataInputStream inStream;
